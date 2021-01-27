@@ -1,0 +1,212 @@
+
+ $newrun
+
+ aw0   =  2.474900D+00
+
+ xkx   =  0.000000D+00
+
+ xky   =  1.000000D+00
+
+ wcoefz=  0.000000D+00   0.000000D+00   0.000000D+00
+
+ xlamd =  3.000000D-02
+
+ fbess0=  0.000000D+00
+
+ delaw =  0.000000D+00
+
+ iertyp=    0
+
+ iwityp=    0
+
+ awd   =  2.474900D+00
+
+ awx   =  0.000000D+00
+
+ awy   =  0.000000D+00
+
+ iseed =   -1
+
+ npart = 8192
+
+ gamma0=  8414.9
+
+ delgam=  2.6700
+
+ rxbeam=  4.317535D-05
+ rybeam=  2.550405D-05
+ alphax=  1.532160D+00
+ alphay= -4.545916D-01
+
+ emitx =  1.00000D-06
+
+ emity =  1.000000D-06
+
+ xbeam =  0.000000D+00
+
+ ybeam =  0.000000D+00
+
+ pxbeam=  0.000000D+00
+
+ pybeam=  0.000000D+00
+
+ conditx =  0.000000D+00
+
+ condity =  0.000000D+00
+
+ bunch =  0.000000D+00
+
+ bunchphase =  0.000000D+00
+
+ emod =  0.000000D+00
+
+ emodphase =  0.000000D+00
+
+ xlamds=  1.509D-9
+
+ prad0 =  1.000000D-06
+
+ zrayl =  3.000000D+01
+
+ zwaist=  0.000000D+00
+
+ ncar  =  151
+
+ lbc   =    0
+
+ rmax0 =  1.500000D+01
+
+ dgrid =  6.251428E-04
+
+ nscr  =    1
+
+ nscz  =    0
+
+ nptr  =   40
+
+ nwig  =  110
+
+ zsep  =  20.000000D+00
+
+ delz  =  5.000000D+00
+
+ nsec  =    1
+
+ iorb  =    0
+
+ zstop = -1.000000D+00
+
+ magin =    1
+
+ magout=    0
+
+ quadf =  1.667000D+01
+
+ quadd = -1.667000D+01
+
+ fl    =  8.000000D+00
+
+ dl    =  8.000000D+00
+
+ drl   =  1.120000D+02
+
+ f1st  =  0.000000D+00
+
+ qfdx  =  0.000000D+00
+
+ qfdy  =  0.000000D+00
+
+ solen =  0.000000D+00
+
+ sl    =  0.000000D+00
+
+ ildgam=    9
+
+ ildpsi=    1
+
+ ildx  =    2
+
+ ildy  =    3
+
+ ildpx =    5
+
+ ildpy =    7
+
+ itgaus=    1
+
+ nbins =    16
+
+ igamgaus =    1
+
+ iallharm=  1
+  
+ nharm =    5
+  
+ iharmsc =  0
+  
+ lout  = 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 
+
+ iphsty=    2
+
+ ishsty=    2
+
+ ippart=    0
+
+ ispart=    0
+
+ ipradi=    50
+
+ isradi=    10
+
+ idump =    0
+
+ iotail=    0
+
+ curpeak=  3.00000D+03
+
+ curlen= 0.000000D+00
+
+ ntail =    0
+ 
+ nslice=    1000
+
+ shotnoise= 1.000000D+00
+
+ isntyp=    1
+
+ iall  =    1
+
+ itdp  =    1
+
+ ipseed=   -1
+
+ iscan =    0
+
+ cuttail= -1.000000D+00
+
+ eloss =  0.000000D+00
+
+ version=  1.000000D-01
+
+ ndcut =   -1
+
+ idmpfld=    0
+
+ idmppar=    0
+
+ ilog  =    0
+
+ ffspec=    -1
+
+ isravg = 0
+ 
+ isrsig = 1
+
+ maginfile ='lcls1.lat'
+
+ outputfile ='lcls_sase.out'
+
+ filetype ='ORIGINAL'
+
+ $end
+
