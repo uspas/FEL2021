@@ -1,0 +1,11 @@
+# header is included
+? VERSION= 1.00  including new format
+? UNITLENGTH= 0.09300 :unit length in header
+QF      3.0067E+01    1    0
+AW      8.6000E-01   20    1
+! LOOP= 19
+QF     -3.0000E+01    2   20
+AW      8.6000E-01   20    2
+QF      3.0067E+01    2   20
+AW      8.6000E-01   20    2
+! ENDLOOP
