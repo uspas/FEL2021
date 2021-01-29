@@ -1,4 +1,6 @@
 # Basic LCLS Lattice 
+# Based on files by Y. Ding
+# https://www.slac.stanford.edu/~ding/LCLS/Genesis/ideal/
 ? VERSION = 1.0
 ? UNITLENGTH = 3e-2
 #       Undulator Field
